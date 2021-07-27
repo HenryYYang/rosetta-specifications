@@ -268,6 +268,8 @@ this section of the website for high-quality implementations they can use
 for integration (make sure your implementation meets the
 ["expectations" of any implementation](https://www.rosetta-api.org/docs/node_deployment.html)).
 
+You're also welcome to add your implementation to the list of known implementation [here](blockchains.md).
+
 ### Reference Implementations
 For many developers, the best way to get started is to look at an example. For this reason,
 we developed a complete Rosetta API reference implementation for [Bitcoin](https://github.com/coinbase/rosetta-bitcoin)
